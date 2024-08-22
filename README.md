@@ -2,6 +2,7 @@
 This tool picks the statistically best prizepicks props for the day based on sportsbook and dfs odds. 
 
 It is simple and works with these simple steps:
+
 Looks at date and time. 
 
 Looks at matchup. 
